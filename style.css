@@ -201,7 +201,7 @@
 }
 
 .content-overview {
-    background-image: url(../img/overview_bg.png);
+    background-image: url(overview_bg.png);
     background-repeat: no-repeat;
     background-position: center top;
     margin-top:30px;
